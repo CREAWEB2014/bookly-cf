@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Bookly Custom Fields (Add-on)\n"
+"Language: es\n"
+
+#: ../backend/modules/calendar/templates/_customer_details_dialog.php:3
+#: ../backend/modules/custom_fields/templates/index.php:9
+#: ../backend/modules/settings/templates/settings_form.php:6
+#: ../lib/proxy_providers/Local.php:299 ../lib/proxy_providers/Shared.php:115
+msgid "Custom Fields"
+msgstr "Campos personalizados"
+
+#: ../backend/modules/custom_fields/Controller.php:40
+#: ../lib/proxy_providers/Shared.php:135
+msgid "Settings saved."
+msgstr "Configuraciones guardadas."
+
+#: ../backend/modules/custom_fields/Controller.php:42
+#: ../backend/modules/custom_fields/templates/_services.php:17
+msgid "All services"
+msgstr "Todos los servicios"
+
+#: ../backend/modules/custom_fields/Controller.php:43
+msgid "No service selected"
+msgstr "Sin servicio seleccionado"
+
+#: ../backend/modules/custom_fields/templates/index.php:17
+msgid "Bind fields to services"
+msgstr "Campos se unen a los servicios"
+
+#: ../backend/modules/custom_fields/templates/index.php:17
+msgid "When this setting is enabled you will be able to create service specific custom fields."
+msgstr "Cuando se habilita esta configuración usted será capaz de crear campos personalizados específicos de servicios."
+
+#: ../backend/modules/custom_fields/templates/index.php:20
+msgid "Merge repeating custom fields for multiple bookings of the service"
+msgstr ""
+
+#: ../backend/modules/custom_fields/templates/index.php:20
+msgid "If enabled, customers will see custom fields for unique appointments while booking multiple instances of the service. Repeating custom fields are merged (collapsed) into one field. If disabled, customers will see custom fields for each appointment in the set of bookings."
+msgstr ""
+
+#: ../backend/modules/custom_fields/templates/index.php:29
+#: ../backend/modules/custom_fields/templates/index.php:99
+msgid "Text Field"
+msgstr "Campo de texto"
+
+#: ../backend/modules/custom_fields/templates/index.php:30
+#: ../backend/modules/custom_fields/templates/index.php:48
+msgid "Text Area"
+msgstr "Área de texto"
+
+#: ../backend/modules/custom_fields/templates/index.php:31
+#: ../backend/modules/custom_fields/templates/index.php:76
+msgid "Text Content"
+msgstr "Contenido del texto"
+
+#: ../backend/modules/custom_fields/templates/index.php:32
+#: ../backend/modules/custom_fields/templates/index.php:128
+msgid "Checkbox Group"
+msgstr "Casilla grupo"
+
+#: ../backend/modules/custom_fields/templates/index.php:33
+#: ../backend/modules/custom_fields/templates/index.php:162
+msgid "Radio Button Group"
+msgstr "Radio button grupo"
+
+#: ../backend/modules/custom_fields/templates/index.php:34
+#: ../backend/modules/custom_fields/templates/index.php:196
+msgid "Drop Down"
+msgstr "Lista desplegable"
+
+#: ../backend/modules/custom_fields/templates/index.php:35
+#: ../backend/modules/custom_fields/templates/index.php:230
+#: ../frontend/modules/booking/templates/_6_details.php:46
+msgid "Captcha"
+msgstr "Captcha"
+
+#: ../backend/modules/custom_fields/templates/index.php:38
+msgid "HTML allowed in all texts and labels."
+msgstr "HTML permite en todos los textos y etiquetas."
+
+#: ../backend/modules/custom_fields/templates/index.php:45
+#: ../backend/modules/custom_fields/templates/index.php:73
+#: ../backend/modules/custom_fields/templates/index.php:96
+#: ../backend/modules/custom_fields/templates/index.php:125
+#: ../backend/modules/custom_fields/templates/index.php:159
+#: ../backend/modules/custom_fields/templates/index.php:193
+#: ../backend/modules/custom_fields/templates/index.php:227
+#: ../backend/modules/custom_fields/templates/index.php:257
+#: ../backend/modules/custom_fields/templates/index.php:273
+#: ../backend/modules/custom_fields/templates/index.php:289
+msgid "Reorder"
+msgstr "Reordenar"
+
+#: ../backend/modules/custom_fields/templates/index.php:49
+#: ../backend/modules/custom_fields/templates/index.php:77
+#: ../backend/modules/custom_fields/templates/index.php:100
+#: ../backend/modules/custom_fields/templates/index.php:129
+#: ../backend/modules/custom_fields/templates/index.php:163
+#: ../backend/modules/custom_fields/templates/index.php:197
+#: ../backend/modules/custom_fields/templates/index.php:231
+msgid "Remove field"
+msgstr "Retire campo"
+
+#: ../backend/modules/custom_fields/templates/index.php:53
+#: ../backend/modules/custom_fields/templates/index.php:105
+#: ../backend/modules/custom_fields/templates/index.php:134
+#: ../backend/modules/custom_fields/templates/index.php:168
+#: ../backend/modules/custom_fields/templates/index.php:202
+#: ../backend/modules/custom_fields/templates/index.php:236
+#: ../backend/modules/custom_fields/templates/index.php:261
+#: ../backend/modules/custom_fields/templates/index.php:277
+#: ../backend/modules/custom_fields/templates/index.php:293
+msgid "Enter a label"
+msgstr "Introduzca una etiqueta"
+
+#: ../backend/modules/custom_fields/templates/index.php:56
+#: ../backend/modules/custom_fields/templates/index.php:108
+#: ../backend/modules/custom_fields/templates/index.php:137
+#: ../backend/modules/custom_fields/templates/index.php:171
+#: ../backend/modules/custom_fields/templates/index.php:205
+#: ../backend/modules/custom_fields/templates/index.php:240
+msgid "Required field"
+msgstr "Los campos obligatorios"
+
+#: ../backend/modules/custom_fields/templates/index.php:81
+msgid "Enter a content"
+msgstr "Introduzca un contenido"
+
+#: ../backend/modules/custom_fields/templates/index.php:144
+msgid "Checkbox"
+msgstr "Caja"
+
+#: ../backend/modules/custom_fields/templates/index.php:178
+msgid "Radio Button"
+msgstr "Radio button"
+
+#: ../backend/modules/custom_fields/templates/index.php:212
+msgid "Option"
+msgstr "Opción"
+
+#: ../backend/modules/custom_fields/templates/index.php:265
+#: ../backend/modules/custom_fields/templates/index.php:281
+#: ../backend/modules/custom_fields/templates/index.php:297
+msgid "Remove item"
+msgstr "Quitar elemento"
+
+#: ../backend/modules/settings/templates/settings_form.php:6
+msgid "Enable this setting to display custom fields on your booking form."
+msgstr ""
+
+#: ../frontend/modules/booking/templates/_6_details.php:47
+msgid "Another code"
+msgstr "Otro código"
+
+#: ../lib/proxy_providers/Local.php:242
+msgid "Incorrect code"
+msgstr "Código incorrecto"
+
+#: ../lib/proxy_providers/Local.php:244
+msgid "Required"
+msgstr "Requerido"
+
+#: ../lib/proxy_providers/Shared.php:53 ../lib/proxy_providers/Shared.php:72
+msgid "combined values of all custom fields"
+msgstr "valores combinados de todos los campos personalizados"
+
+#: ../lib/proxy_providers/Shared.php:56
+msgid "combined values of all custom fields (formatted in 2 columns)"
+msgstr "valores combinados de todos los campos personalizados (formateado en 2 columnas)"
+
+#: ../lib/proxy_providers/Shared.php:54
+msgid "extended staff agenda for next day"
+msgstr ""
+

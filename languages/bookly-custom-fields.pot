@@ -1,0 +1,101 @@
+msgid "combined values of all custom fields"
+msgstr ""
+
+msgid "extended staff agenda for next day"
+msgstr ""
+
+msgid "combined values of all custom fields (formatted in 2 columns)"
+msgstr ""
+
+msgid "Custom Fields"
+msgstr ""
+
+msgid "Settings saved."
+msgstr ""
+
+msgid "Incorrect code"
+msgstr ""
+
+msgid "Required"
+msgstr ""
+
+msgid "Enable this setting to display custom fields on your booking form."
+msgstr ""
+
+msgid "Bind fields to services"
+msgstr ""
+
+msgid ""
+"When this setting is enabled you will be able to create service specific "
+"custom fields."
+msgstr ""
+
+msgid "Merge repeating custom fields for multiple bookings of the service"
+msgstr ""
+
+msgid ""
+"If enabled, customers will see custom fields for unique appointments while "
+"booking multiple instances of the service. Repeating custom fields are "
+"merged (collapsed) into one field. If disabled, customers will see custom "
+"fields for each appointment in the set of bookings."
+msgstr ""
+
+msgid "Text Field"
+msgstr ""
+
+msgid "Text Area"
+msgstr ""
+
+msgid "Text Content"
+msgstr ""
+
+msgid "Checkbox Group"
+msgstr ""
+
+msgid "Radio Button Group"
+msgstr ""
+
+msgid "Drop Down"
+msgstr ""
+
+msgid "Captcha"
+msgstr ""
+
+msgid "HTML allowed in all texts and labels."
+msgstr ""
+
+msgid "Reorder"
+msgstr ""
+
+msgid "Remove field"
+msgstr ""
+
+msgid "Enter a label"
+msgstr ""
+
+msgid "Required field"
+msgstr ""
+
+msgid "Enter a content"
+msgstr ""
+
+msgid "Checkbox"
+msgstr ""
+
+msgid "Radio Button"
+msgstr ""
+
+msgid "Option"
+msgstr ""
+
+msgid "Remove item"
+msgstr ""
+
+msgid "All services"
+msgstr ""
+
+msgid "No service selected"
+msgstr ""
+
+msgid "Another code"
+msgstr ""
